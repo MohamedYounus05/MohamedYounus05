@@ -54,7 +54,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="http://www.linkedin.com/in/%20mohamed-younus05">
+  <a href="http://www.linkedin.com/in/mohamed-younus05">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
